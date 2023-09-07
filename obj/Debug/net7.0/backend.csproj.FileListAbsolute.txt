@@ -1,0 +1,14 @@
+C:\Users\Teilnehmer\Documents\backend\bin\Debug\net7.0\backend.exe
+C:\Users\Teilnehmer\Documents\backend\bin\Debug\net7.0\backend.deps.json
+C:\Users\Teilnehmer\Documents\backend\bin\Debug\net7.0\backend.runtimeconfig.json
+C:\Users\Teilnehmer\Documents\backend\bin\Debug\net7.0\backend.dll
+C:\Users\Teilnehmer\Documents\backend\bin\Debug\net7.0\backend.pdb
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.dll
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\refint\backend.dll
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.pdb
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+C:\Users\Teilnehmer\Documents\backend\obj\Debug\net7.0\ref\backend.dll
