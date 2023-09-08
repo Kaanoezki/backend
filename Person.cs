@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-// git test commit ver2
+// git alternativeuniverse1
 class testProgramm{
 
     static void Main(string[]args)
