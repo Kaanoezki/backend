@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-// git test commit ver2
-// git testbranch_1
-// git merge test with masterbranch 
+// git alternatniveUniverse1 -branch
 
 class testProgramm{
 
