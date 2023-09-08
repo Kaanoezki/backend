@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-// git alternativeUniverse1 branch 
+// git master branch
 class testProgramm{
 
     static void Main(string[]args)
